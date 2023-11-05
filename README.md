@@ -1,3 +1,4 @@
+## INDIVIDUAL PROJECT TWO:
 ### Goal
 This project aims to deliver a comprehensive ETL (Extract, Transform, Load) tool with querying capabilities, all developed using the Rust programming language. The process involves setting up a new Rust project using cargo init, installing Rust dependencies via Cargo.toml using cargo build, and leveraging Github Copilot for translating Python code to Rust. The translation process is carefully executed to ensure compliance with Rust's syntax, robust error handling, and full utilization of Rust's unique features.
 
