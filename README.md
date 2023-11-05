@@ -8,10 +8,10 @@ The workflow includes tasks performed using a Makefile, such as installation, te
 ## Operations Example:
 I have read the data 
 ![Local Image](second.jpg.png)
+
 I have performed the Delete operation on the data :
 ![Local Image](INDPROJ2.jpg.png)
 
-![Local Image](second.jpg.png)
 
 As a final step, the project produces an optimized Rust binary, available as a GitHub Actions artifact for download.
 
