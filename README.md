@@ -5,16 +5,23 @@ The toolkit provides a set of functions for performing ETL operations on dataset
 
 The workflow includes tasks performed using a Makefile, such as installation, testing, code formatting, and linting. This automation streamlines the data analysis process and improves code quality.
 
+## Operations Example:
+I have performed the Delete operation on the data :
+![Local Image](INDPROJ2.jpg.png)
+
 As a final step, the project produces an optimized Rust binary, available as a GitHub Actions artifact for download.
 
 ### Workflow Overview
 The project's workflow can be summarized as follows:
 
-### Rust Initiation and Dependencies Installation: This involves initializing a new Rust project using cargo init, which creates the necessary project files, including Cargo.toml, and installing Rust dependencies using cargo build.
+### Rust Initiation and Dependencies Installation: 
+This involves initializing a new Rust project using cargo init, which creates the necessary project files, including Cargo.toml, and installing Rust dependencies using cargo build.
 
-### Github Copilot Translation from Python to Rust: The project leverages Github Copilot to translate Python code into Rust, ensuring the correct use of Rust syntax, effective error handling, and the implementation of Rust's unique features.
+### Github Copilot Translation from Python to Rust:
+The project leverages Github Copilot to translate Python code into Rust, ensuring the correct use of Rust syntax, effective error handling, and the implementation of Rust's unique features.
 
-### ETL-Query: This phase includes four main actions - Extract, Transform, Load, and Query. The Extract function downloads data from a specified URL and saves it locally. The Transform and Load function reads a CSV dataset, performs necessary table operations, and inserts records into a SQLite database. The Query function allows the execution of SQL queries on the database for data analysis and retrieval.
+### ETL-Query: This phase includes four main actions-
+Extract, Transform, Load, and Query. The Extract function downloads data from a specified URL and saves it locally. The Transform and Load function reads a CSV dataset, performs necessary table operations, and inserts records into a SQLite database. The Query function allows the execution of SQL queries on the database for data analysis and retrieval.
 
 
 ## Preparation
@@ -40,9 +47,6 @@ Makefile Automation: The Makefile includes custom tasks for database-related act
 
 The Makefile tasks enable automated development, testing, and management of the Rust project.
 
-## Operations Example:
-I have performed the Delete operation on the data :
-![Local Image](INDPROJ2.jpg.png)
 
 
 
