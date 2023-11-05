@@ -41,7 +41,7 @@ Github Copilot Translation: Translate Python code to Rust for the core functiona
 
 CLI Implementation: Create a command-line interface (CLI) in main.rs for users to perform ETL and querying actions on the dataset.
 
-Unit Testing: Provide unit tests in etl_tests.rs to ensure the correctness of the ETL functions.
+
 
 Makefile Automation: The Makefile includes custom tasks for database-related actions, such as data extraction, transformation and loading, creating, reading, updating, and deleting records.
 
