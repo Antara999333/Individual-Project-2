@@ -42,6 +42,8 @@ The Makefile tasks enable automated development, testing, and management of the 
 
 ## Operations Example:
 I have performed the Delete operation on the data :
+![Local Image](INDPROJ2.jpg.png)
+
 
 
 
