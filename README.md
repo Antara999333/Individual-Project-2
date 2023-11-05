@@ -7,6 +7,7 @@ The workflow includes tasks performed using a Makefile, such as installation, te
 
 ## Operations Example:
 I have read the data 
+
 ![Local Image](second.jpg.png)
 
 I have performed the Delete operation on the data :
